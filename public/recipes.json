@@ -1,0 +1,98 @@
+[
+  {
+    "recipe_id": 101,
+    "recipe_name": "Spicy Garlic Butter Shrimp",
+    "image": "https://i.ibb.co.com/dsCcdtQg/recepe-1.png",
+    "short_description": "Delicious shrimp sautéed in a spicy garlic butter sauce.",
+    "ingredients": [
+      "500 g shrimp",
+      "100 g butter",
+      "3 cloves garlic, minced",
+      "1 tsp red pepper flakes",
+      "1 tbsp lemon juice",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": 25,
+    "calories": 320
+  },
+  {
+    "recipe_id": 102,
+    "recipe_name": "Classic Margherita Pizza",
+    "image": "https://i.ibb.co.com/g2gDRhv/recepe-2.png",
+    "short_description": "A simple yet delicious pizza topped with fresh tomatoes, mozzarella, and basil.",
+    "ingredients": [
+      "300 g pizza dough",
+      "200 g tomato sauce",
+      "150 g mozzarella cheese",
+      "50 g fresh basil leaves",
+      "1 tbsp olive oil",
+      "Salt to taste"
+    ],
+    "preparing_time": 40,
+    "calories": 450
+  },
+  {
+    "recipe_id": 103,
+    "recipe_name": "Creamy Mushroom Pasta",
+    "image": "https://i.ibb.co.com/dsCcdtQg/recepe-1.png",
+    "short_description": "A rich and creamy pasta dish with mushrooms and parmesan cheese.",
+    "ingredients": [
+      "300 g pasta",
+      "200 g mushrooms, sliced",
+      "100 ml heavy cream",
+      "50 g parmesan cheese",
+      "1 tbsp olive oil",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": 30,
+    "calories": 520
+  },
+  {
+    "recipe_id": 104,
+    "recipe_name": "Grilled Lemon Herb Chicken",
+    "image": "https://i.ibb.co.com/g2gDRhv/recepe-2.png",
+    "short_description": "Juicy grilled chicken marinated with lemon and herbs.",
+    "ingredients": [
+      "550 g chicken breast",
+      "120 ml lemon juice",
+      "50 g fresh parsley, chopped",
+      "2 cloves garlic, minced",
+      "2 tbsp olive oil",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": 35,
+    "calories": 340
+  },
+  {
+    "recipe_id": 105,
+    "recipe_name": "Vegetable Stir Fry",
+    "image": "https://i.ibb.co.com/dsCcdtQg/recepe-1.png",
+    "short_description": "A healthy and colorful mix of stir-fried vegetables.",
+    "ingredients": [
+      "200 g broccoli",
+      "150 g bell peppers, sliced",
+      "100 g carrots, julienned",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 tsp ginger, grated"
+    ],
+    "preparing_time": 20,
+    "calories": 250
+  },
+  {
+    "recipe_id": 106,
+    "recipe_name": "Blueberry Pancakes",
+    "image": "https://i.ibb.co.com/g2gDRhv/recepe-2.png",
+    "short_description": "Fluffy pancakes filled with fresh blueberries.",
+    "ingredients": [
+      "250 g flour",
+      "300 ml milk",
+      "100 g blueberries",
+      "2 eggs",
+      "1 tbsp sugar",
+      "1 tsp baking powder"
+    ],
+    "preparing_time": 30,
+    "calories": 390
+  }
+]
